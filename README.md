@@ -15,3 +15,15 @@ For the Lab write the following code.
 2) Write a function that will return true or false that an edge exists ( edge_exists(origin,destination))
 
 3) Print out all Vertices using BFS
+
+Bonus +5
+
+Print out all Vertices using DFS
+
+Bonus +5 
+
+Write a function to print out the shortest path between two vertices (shortest_path(origin,destination))
+
+Bonus +5
+
+Find all Cliques in the graph and print them out
